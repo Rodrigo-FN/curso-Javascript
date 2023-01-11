@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+}
+
+.start {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin-right: 1em;
+    color: white;
+    font-size: 16px;
+}
+
+.stop {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+}
