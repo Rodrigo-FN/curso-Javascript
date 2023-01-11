@@ -67,9 +67,9 @@ document.write(craques)
 
                         // Método sort
 
-const jogOredem = jogadores.sort();
+const jogOredem = jogadores.sort(); // sort == Ordem Alfabetica
 
-document.write(jogOredem);  // sort == Ordem Alfabetica
+document.write(jogOredem);  
 
 jogadores.sort();
 jogadores.reverse(); // reverse = Ordem 'Desalfabetica' kkkkkkkk
