@@ -39,3 +39,5 @@ function pararContagem() {
     clearInterval(temp);
 
 }
+
+
